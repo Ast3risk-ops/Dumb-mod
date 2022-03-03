@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="dumb_shit"
+version="1.0.0"
+displayName="Dumb Shit"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="0398313, MCreator"
+
+[[dependencies.dumb_shit]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
